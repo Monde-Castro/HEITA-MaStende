@@ -1,0 +1,5 @@
+Vosloorus-property1-R2,500 pm -  Moagi,Vosloorus
+Vosloorus-property1-R2,500 pm -  Mokgako,Vosloorus
+Vosloorus-property1-R850 pm -  Tsietsi,Vosloorus
+Vosloorus-property1-R2,570 pm -  Ngubu,Vosloorus
+Vosloorus-property1-R1,000 pm -  Legodi,Vosloorus

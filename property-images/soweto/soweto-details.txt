@@ -1,0 +1,5 @@
+soweto-property1-R3,000 per month - Meadowlands, Soweto
+soweto-property2-R1,200 per month - Protea Glen, Soweto
+soweto-property3-R2,500 per month - Dhlamini, Soweto
+soweto-property4-R2,500 per month - Protea Glen, Soweto
+soweto-property5-R4,000 per month - Protea Glen, Soweto

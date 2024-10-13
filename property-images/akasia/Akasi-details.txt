@@ -1,0 +1,5 @@
+Akasia-property1-R3,500 pm - Medunsa,Akasia
+Akasia-property2-R2,500 pm - Orchards,Akasia
+Akasia-property3-R2,000 pm - Moshate Garden,Akasia
+Akasia-property4-R1,500 pm - Amandasig Garden,Akasia
+Akasia-property5-R5,500 pm - Orchards,Akasia

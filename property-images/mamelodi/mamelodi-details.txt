@@ -1,0 +1,5 @@
+Mamelodi-property1-R5,500 per month - GemValley,Mamelodi 
+Mamelodi-property1-R3,000 per month - Eastwood,Mamelodi 
+Mamelodi-property1-R4,500 per month - Ngwenya St,Mamelodi 
+Mamelodi-property1-R2,800 per month - Igolide St St,Mamelodi 
+Mamelodi-property1-R2,000 per month - Loutus Av,Mamelodi

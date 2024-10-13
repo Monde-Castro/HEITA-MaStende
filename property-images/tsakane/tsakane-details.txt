@@ -1,0 +1,5 @@
+Tsakane-property1-R3,500 pm - Koni St,Tsakane
+Tsakane-property2-R1,000 pm - Bhala St,Tsakane
+Tsakane-property3-R2,000 pm - Tlou St,Tsakane
+Tsakane-property4-R900 pm - Moeketsi St,Tsakane
+Tsakane-property5-R3,000 pm - Seeiso St,Tsakane

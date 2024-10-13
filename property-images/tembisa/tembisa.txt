@@ -1,0 +1,5 @@
+Tembisa-property1-R5,600 per month - Sedibeng,Tembisa
+Tembisa-property2-R1,250 per month - Lifateng,Tembisa
+Tembisa-property3-R2,500 per month - Lekaneng,Tembisa
+Tembisa-property4-R1,700 per month - Umthambeka,Tembisa
+Tembisa-property5-R1,180 per month - Esiziba,Tembisa

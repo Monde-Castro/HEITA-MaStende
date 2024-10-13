@@ -1,0 +1,5 @@
+Soshanguve-property1-R850 pm - Soshanguve South,Tshwane
+Soshanguve-property2-R1,800 pm - Soshanguve South,Tshwane
+Soshanguve-property3-R2,000 pm - Soshanguve North,Tshwane
+Soshanguve-property4-R1,500 pm - Soshanguve South,Tshwane
+Soshanguve-property5-R2,500 pm - Soshanguve North,Tshwane
